@@ -1,0 +1,16 @@
+body{
+
+}
+.THE{
+font-style:italic ;
+font-size: 30px;
+margin: -10px;
+}
+.ANALOG{
+font-family: fantasy;
+font-size:   400%;
+}
+.hr{
+    margin: 30px;
+    border: 1px solid black;
+}
